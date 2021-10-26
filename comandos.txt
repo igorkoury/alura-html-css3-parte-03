@@ -1,0 +1,39 @@
+CSS 3
+
+transform - aumenta a escala do elemento
+
+width - altera a largura do elemento
+height - altera a altura do elemento
+
+HTML 5
+
+
+estrutura de uma tabela 2x2:
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+A tag table, que representa a tabela
+A tag tr, que representa a linha da tabela
+A tag td, que representa a célula da tabela
+A tag thead, que representa o cabeçalho da tabela
+A tag tbody, que representa o corpo da tabela
+A tag th, que representa a célula do cabeçalho da tabela
+A tag tfoot, que representa o rodapé da tabela
+
+
+agrupando colunas de um a tabela:
+<tr>
+    <td colspan="5">Rio de Janeiro</td> 
+</tr>
+
+x = ao número de colunas que você deseja agrupar
